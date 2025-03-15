@@ -1,4 +1,4 @@
-Hello! I’m a 23-year-old aspiring software developer from Manaus, Brazil. Currently, I’m pursuing a degree in Systems Analysis and Development at Uninorte 🎓, where I’m honing my skills in programming, problem-solving, and software development.
+Hello! I’m Loki, a 23-year-old aspiring software developer from Manaus, Brazil. Currently, I’m pursuing a degree in Systems Analysis and Development at Uninorte 🎓, where I’m honing my skills in programming, problem-solving, and software development.
 
 When I’m not coding or studying, you’ll often find me immersed in the world of online gaming 🎮 or watching live streams of people playing games. I’m a huge fan of The Big Bang Theory 📺 and Dragon Ball Z.
 
