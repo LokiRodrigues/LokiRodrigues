@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! I’m a 23-year-old aspiring software developer from Manaus, Brazil. Currently, I’m pursuing a degree in Systems Analysis and Development at Uninorte 🎓, where I’m honing my skills in programming, problem-solving, and software development.
+
+When I’m not coding or studying, you’ll often find me immersed in the world of online gaming 🎮 or watching live streams of people playing games. I’m a huge fan of The Big Bang Theory 📺 and Dragon Ball Z.
+
+I’m passionate about technology and always eager to learn new things. 
 
 <!--
 **LokiRodrigues/LokiRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
